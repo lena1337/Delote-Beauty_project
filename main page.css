@@ -318,3 +318,146 @@ body{
     left: 680px;
     top: 30px;
 }
+.our-work{
+    position: absolute;
+    width: 800px;
+    height: 1525px;
+    left: 200px;
+    top: 2500px;
+}
+.our-services{
+    width: 961px;
+    height: 58px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Garamond';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 120%;
+    text-align: center;
+    color: #FFFFFF;
+}
+.tabs{
+    position: absolute;
+    width: 722px;
+    height: 36px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.tab1{
+    position: absolute;
+    margin-left: 50px;
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 130%;
+    text-align: center;
+    color: #FFFFFF;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+.tab2{
+    position: absolute;
+    margin-left: 300px;
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 130%;
+    text-align: center;
+    color: #FFFFFF;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+.tab3{
+    position: absolute;
+    margin-left: 650px;
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 130%;
+    text-align: center;
+    color: #FFFFFF;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+.tab4{
+    position: absolute;
+    margin-left: 850px;
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 130%;
+    text-align: center;
+    color: #FFFFFF;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+.work1{
+    position: absolute;
+    width: auto;
+    height: 300px;
+    top: 300px;
+}
+.work2{
+    position: absolute;
+    width: auto;
+    height: 300px;
+    top: 300px;
+    left: 350px;
+}
+.work3{
+    position: absolute;
+    width: auto;
+    height: 300px;
+    top: 300px;
+    left: 700px;
+}
+.work4{
+    position: absolute;
+    width: auto;
+    height: 300px;
+    top: 650px;
+}
+.work5{
+    position: absolute;
+    width: auto;
+    height: 300px;
+    top: 650px;
+    left: 350px;
+}
+.work6{
+    position: absolute;
+    width: auto;
+    height: 300px;
+    top: 650px;
+    left: 700px;
+}
+.work7{
+    position: absolute;
+    width: auto;
+    height: 300px;
+    top: 1000px;
+}
+.work8{
+    position: absolute;
+    width: auto;
+    height: 300px;
+    top: 1000px;
+    left: 350px;
+}
+.work9{
+    position: absolute;
+    width: auto;
+    height: 300px;
+    top: 1000px;
+    left: 700px;
+}
