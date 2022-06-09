@@ -1,6 +1,6 @@
 body{
     background-color: #111111;
-    height: 4000px;
+    height: 4200px;
 }
 .backround{
     position: absolute;
@@ -460,4 +460,59 @@ body{
     height: 300px;
     top: 1000px;
     left: 700px;
+}
+.line2{
+    position: absolute;
+    left: 20%;
+    height: 0;
+    width: 100%;
+    opacity: 0.5;
+    top: 1400px;
+    border-bottom: 1px solid #FFFFFF;
+}
+.line3{
+    position: absolute;
+    left: 20%;
+    height: 0;
+    width: 100%;
+    opacity: 0.5;
+    top: 1600px;
+    border-bottom: 1px solid #FFFFFF;
+}
+.contacts{
+    position: absolute;
+    width: 400px;
+    left: 450px;
+    top: 3950px;
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 130%;
+    color: #FFFFFF;
+}
+.time-work{
+    position: absolute;
+    width: 400px;
+    left: 900px;
+    top: 3950px;
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 130%;
+    color: #FFFFFF;
+}
+.figma{
+    position: absolute;
+    width: 400px;
+    top: 4125px;
+    left: 550px;
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 130%;
+    color: #FFFFFF;
+    text-align: center;
 }
